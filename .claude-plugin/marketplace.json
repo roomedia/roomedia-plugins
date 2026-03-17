@@ -1,0 +1,40 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-plugins",
+  "description": "roomedia's Claude Code plugins — reverse-engineering, productivity, and more",
+  "owner": {
+    "name": "roomedia"
+  },
+  "plugins": [
+    {
+      "name": "code-to-spec",
+      "version": "1.0.0",
+      "description": "Reverse-engineer source code into implementation-ready spec documents that another agent can use to recreate the code from scratch",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/roomedia/code-to-spec.git"
+      },
+      "author": {
+        "name": "roomedia"
+      },
+      "license": "MIT",
+      "keywords": ["reverse-engineering", "spec", "documentation", "code-analysis", "legacy"],
+      "category": "development"
+    },
+    {
+      "name": "thank-you",
+      "version": "1.1.4",
+      "description": "Automatically appends motivational and research-backed phrases to every prompt",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/roomedia/thank-you.git"
+      },
+      "author": {
+        "name": "roomedia"
+      },
+      "license": "MIT",
+      "keywords": ["hooks", "prompt", "politeness", "thank-you"],
+      "category": "productivity"
+    }
+  ]
+}
