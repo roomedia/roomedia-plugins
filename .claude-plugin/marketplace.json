@@ -35,6 +35,21 @@
       "license": "MIT",
       "keywords": ["hooks", "prompt", "politeness", "thank-you"],
       "category": "productivity"
+    },
+    {
+      "name": "absorb-into-commits",
+      "version": "1.0.0",
+      "description": "Absorb uncommitted changes or fix commits into earlier commits via interactive rebase",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/roomedia/absorb-into-commits.git"
+      },
+      "author": {
+        "name": "roomedia"
+      },
+      "license": "MIT",
+      "keywords": ["git", "rebase", "absorb", "squash", "amend", "commit-history"],
+      "category": "development"
     }
   ]
 }
