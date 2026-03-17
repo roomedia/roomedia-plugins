@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-plugins",
-  "description": "roomedia's Claude Code plugins — reverse-engineering, productivity, and more",
+  "name": "roomedia-plugins",
+  "description": "roomedia's plugins — reverse-engineering, productivity, and more",
   "owner": {
     "name": "roomedia"
   },
