@@ -7,7 +7,7 @@ A curated collection of Claude Code plugins by [roomedia](https://github.com/roo
 Add this marketplace:
 
 ```
-/plugin marketplace add https://github.com/roomedia/claude-plugins.git
+/plugin marketplace add https://github.com/roomedia/roomedia-plugins.git
 ```
 
 Then install any plugin:
