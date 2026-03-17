@@ -23,7 +23,7 @@
     },
     {
       "name": "thank-you",
-      "version": "1.1.4",
+      "version": "1.1.5",
       "description": "Automatically appends motivational and research-backed phrases to every prompt",
       "source": {
         "source": "url",
