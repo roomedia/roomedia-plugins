@@ -38,7 +38,7 @@
     },
     {
       "name": "absorb-into-commits",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "description": "Absorb uncommitted changes or fix commits into earlier commits via interactive rebase",
       "source": {
         "source": "url",
@@ -48,7 +48,7 @@
         "name": "roomedia"
       },
       "license": "MIT",
-      "keywords": ["git", "rebase", "absorb", "squash", "amend", "commit-history"],
+      "keywords": ["git", "rebase", "absorb", "squash", "amend", "commit-history", "interactive-rebase"],
       "category": "development"
     }
   ]
