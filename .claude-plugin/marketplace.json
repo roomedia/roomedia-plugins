@@ -38,7 +38,7 @@
     },
     {
       "name": "absorb-into-commits",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "description": "Absorb uncommitted changes or fix commits into earlier commits via interactive rebase",
       "source": {
         "source": "url",
