@@ -50,6 +50,21 @@
       "license": "MIT",
       "keywords": ["git", "rebase", "absorb", "squash", "amend", "commit-history", "interactive-rebase"],
       "category": "development"
+    },
+    {
+      "name": "gksdud",
+      "version": "1.0.0",
+      "description": "Korean-English keyboard layout converter — auto-detects wrong IME input and provides bidirectional QWERTY ↔ Hangul conversion",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/roomedia/gksdud.git"
+      },
+      "author": {
+        "name": "roomedia"
+      },
+      "license": "MIT",
+      "keywords": ["korean", "hangul", "keyboard", "layout", "IME", "dubeolsik", "qwerty", "한영"],
+      "category": "productivity"
     }
   ]
 }
